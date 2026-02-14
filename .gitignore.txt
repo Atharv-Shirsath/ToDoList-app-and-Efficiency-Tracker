@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+tasks.json
+efficiency.json
+dist/
+build/
+*.spec
+venv/
+env/
