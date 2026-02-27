@@ -16,6 +16,6 @@ A desktop productivity tracker built with Python and Tkinter.
 - numpy
 
 ## Run
-
+'''bash
 pip install -r requirements.txt
 python main.py
